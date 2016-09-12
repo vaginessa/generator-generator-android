@@ -1,6 +1,6 @@
 {
   "name": "generator-generator-android",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate a Yeoman generator for any android architechture",
   "author": "Ravindra Kumar",
   "files": [
